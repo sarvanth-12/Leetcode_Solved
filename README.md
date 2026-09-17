@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0066-plus-one) |
 ## Binary Search
@@ -34,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
