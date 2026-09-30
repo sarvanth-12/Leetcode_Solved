@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0066-plus-one) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0067-add-binary) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0067-add-binary) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
