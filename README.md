@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0217-contains-duplicate) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sarvanth-12/Leetcode_Solved/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
